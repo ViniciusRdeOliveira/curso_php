@@ -2,4 +2,3 @@
     echo "testando php";
 
 ?>
-#teste
