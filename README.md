@@ -1,4 +1,5 @@
-# curso_php
-# curso de php Udemy
+# Curso de PHP Udemy
+# PHP do Zero a Maestria + 4 Projetos incríveis
 # Author Vinicius Ribeiro de Oliveira
-# 33 Anos
+# Age 33
+#
